@@ -2,12 +2,12 @@
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![Static Badge](https://img.shields.io/badge/JodieSolunaManopo-230401010196-blue?style=flat&color=orange)
-![Static Badge](https://img.shields.io/badge/WEB2-IT402-blue?style=flat&labelColor=green)
+![Static Badge](https://img.shields.io/badge/WEB2-IF402-blue?style=flat&labelColor=green)
 
 > ### Personal Information
 > * Nama: Jodie Soluna Manopo
 > * NIM: 230401010196
-> * Kelas: IT402
+> * Kelas: IF402
 > * Prodi: PJJ Informatika
 > * Matkul: Pemrograman WEB 2
 > * Type: TUGAS
