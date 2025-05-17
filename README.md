@@ -76,5 +76,5 @@ ALTER TABLE `produk` ADD UNIQUE (`nama_produk`);
 ### 3. Run Program
 ---
 ```console
-   foo@bar:~$ php -s 127.0.0.1 -p 8080
+   foo@bar:~$ php -S 127.0.0.1:8080
 ```
